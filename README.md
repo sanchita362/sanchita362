@@ -2,10 +2,10 @@
 
 Dedicated and highly motivated engineering and CS student with hands-on experience in IoT systems, data acquisition, and applying machine learning to real-world engineering and biomedical problems.
 
-- B.S. in Electrical and Computer Engineering, Computer Science
+- B.S. in Electrical and Computer Engineering, Computer Science at Rutgers University
 - Interests: Machine Learning, Full Stack Development
 - Currently learning: Machine Learning Pipelines
-- Reach me: linkedin.com/in/sanch-agrawal/
+- Reach me: linkedin.com/in/sanchita-agrawal362
 
 
 ## Technical Skills:
@@ -25,4 +25,4 @@ Dedicated and highly motivated engineering and CS student with hands-on experien
 ## Connect with Me:
 - **Email:** sanchitaagrawal362@gmail.com
 
-- **Linkedin:** [linkedin.com/in/sanch-agrawal/](https://www.linkedin.com/in/sanch-agrawal/)
+- **Linkedin:** [linkedin.com/in/sanchita-agrawal362/](https://www.linkedin.com/in/sanchita-agrawal362/)
